@@ -1,0 +1,80 @@
+/* Header */
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    max-width: 110rem;
+}
+header{
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    text-align: center;
+    font-size: 1.2rem;
+    border-bottom: 2px #82001a solid;
+}
+.la{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 1.8rem;
+    margin-top: 30px;
+   margin-right: 0px;
+   margin-left: 25px;
+   color: #82001a;
+
+}
+
+nav
+{
+    display: flex;
+
+}
+.icon{
+    margin-top: 14px;
+    margin-right: 30px;
+    margin-left: 55px;
+}
+.pha{
+    background-image: url(https://www.igauge.in/admin/uploaded/rating/VallurupalliNageswaraRaoCampusFacebook_1610429815.png);
+    background-repeat: no-repeat;
+    background-size:1600px;
+    
+    height: 450px;
+}
+.ig{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.15rem;
+    color:#83001a;
+    margin-right: 310px;
+    margin-bottom: 120px;
+    margin-left: 363px;
+    margin-top: 70px;
+   
+}
+
+main{
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 45px;
+  
+}
+.row{
+    /* margin: 70px; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 40px;
+    align-items:center;
+}
+.options{
+ background-color: #710c2079;
+    width: 500px;
+    height: 100px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    border-radius: 20px;
+    text-align: center;
+}
+.l{
+    margin-top: 40px;
+    color:#83001a;
+}
